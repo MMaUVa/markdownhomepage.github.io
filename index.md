@@ -12,5 +12,5 @@ links:
     url: ""
 ---
 
-This is the test webpage for Our Lab UVA, and I would like to have this print and test first on personal PC. Once it works, we could update pictures for every lab member
+This is a test website for our lab at UVA. I'd like to build and test it on my personal computer first. Once everything is working properly, we can add photos of each lab member.
 
