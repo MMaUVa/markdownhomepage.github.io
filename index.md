@@ -1,15 +1,15 @@
 ---
-title: Jerry the Cat
-description: "Jerry is a beautiful Persian cat. He likes pets."
+title: personal website test
+description: "personal website test."
 image: files/headshot.jpg
 home: true
 links:
   - label: Newsletter
-    url: "https://blog.stephenturner.us/"
+    url: ""
   - label: GitHub
-    url: "https://github.com/stephenturner"
+    url: ""
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/turnersd/"
+    url: ""
 ---
 
 I'm a research scientist at [Example University](https://example.edu/) studying the impact of treats and pets on feline well-being and life satisfaction. Replace this paragraph with two or three sentences about what you do.
