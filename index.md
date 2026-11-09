@@ -1,6 +1,6 @@
 ---
-title: Jerry the Cat
-description: "Jerry is a beautiful Persian cat. He likes pets."
+title: Personal Website test
+description: "Personal Website for test"
 image: files/headshot.jpg
 home: true
 links:
