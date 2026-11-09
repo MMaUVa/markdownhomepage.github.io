@@ -12,8 +12,5 @@ links:
     url: ""
 ---
 
-I'm a research scientist at [Example University](https://example.edu/) studying the impact of treats and pets on feline well-being and life satisfaction. Replace this paragraph with two or three sentences about what you do.
+This is the test webpage for Our Lab UVA, and I would like to have this print and test first on personal PC. Once it works, we could update pictures for every lab member
 
-Add a second paragraph for your background, current projects, or books. Everything here is plain Markdown, and the buttons below come from the `links` list in the frontmatter.
-
-The code for this repo is available [here on GitHub](https://github.com/markdownhomepage/markdownhomepage.github.io).
